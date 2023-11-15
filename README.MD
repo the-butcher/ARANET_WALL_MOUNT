@@ -1,20 +1,15 @@
 # aranet-proxy
 
-This is an exeriment to create a non-visible theft protecting wall mount for the Aranet 4 CO₂ Monitor.
+This is an experiment to create a non-visible theft protecting wall mount for the Aranet 4 CO₂ Monitor.
+![parts](aranet_secure2.png)
 
-- 3D-print the parts from [aranet_secure.stl](aranet_secure.stl)
-![parts](aranet_secure_1.png)
+- 3D-print the parts from [aranet_secure.stl](aranet_secure.stl), use sandpaper and file to remove supports from the battery lid and to make it fit the Aranet 4 housing
+![parts](aranet_secure1.png)
 
-- Glue the small, moon shaped, part into the round plate like below
-![glue](aranet_secure_2.png)
+- Align battery lid and wall mount plate like below, optionally use glue and mount to wall
+- Insert the locking pin into the Aranet 4 housing, twist ~45deg so it can slide on the mount
+- Slide the Aranet 4 with the locking pin onto the mount
+- Rotate the locking pin ~90deg
+![glue](aranet_secure30.gif)
 
-- Use a flat headed screw to mount the round plate at your desired location
-![screw](aranet_secure_3.jpg)
-
-- Slide the white parts underneath (some adjustment may be needed until the plates have a tight fit). Use a rubber band, O-ring or zip tie to keep the white plates in place.
-![screw](aranet_secure_4.jpg)
-
-- When done right, the Aranet will not be unmountable (with reasonable force).
-![screw](aranet_secure_5.jpg)
-
-- To unmount, remove the rubber band, then the white plates. Wiggle the device a bit until the round plate comes losse, then remove the device from the mount.
+-
